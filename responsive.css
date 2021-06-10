@@ -1,0 +1,70 @@
+@media (max-width:1000px) {
+    .movie {
+        width: 50%;
+        margin-bottom: 100px;
+    }
+
+    .main h1 {
+        font-size: 32px;
+    }
+
+    .heading h2 {
+        font-size: 20px;
+    }
+    
+    .heading h3 {
+        font-size: 17px;
+    }
+
+    .header-left {
+        margin-left: 10px;
+    }
+
+    .header-right {
+        margin-right: 10px;
+    }
+
+}
+
+@media (max-width: 670px) {
+    .main {
+        width: 100%;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .main {
+        text-align: left;
+        padding-top: 80px;
+    }
+
+    .main h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .main p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .header-right {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block !important;
+    }
+
+    .txt-contents {
+        padding-bottom: 25px;
+    }
+
+
+}
